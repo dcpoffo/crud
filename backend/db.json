@@ -1,29 +1,28 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
-    },
-    {
-      "id": 2,
-      "name": "Note da Apple",
-      "price": 11500.89
-    },
-    {
-      "id": 3,
-      "name": "Iphone 18",
-      "price": 5000
-    },
-    {
-      "name": "Bina 14 Plus",
-      "price": 1000,
-      "id": 4
-    },
-    {
-      "name": "Create com formulario",
-      "price": "666",
-      "id": 5
-    }
-  ]
+    "products": [{
+            "id": 1,
+            "name": "Caneta BIC Preta",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Note da Apple",
+            "price": 11500.89
+        },
+        {
+            "id": 3,
+            "name": "Iphone 18",
+            "price": 5000
+        },
+        {
+            "name": "Bina 14 Plus",
+            "price": 1000,
+            "id": 4
+        },
+        {
+            "name": "Lapis 3 cores",
+            "price": "6.50",
+            "id": 5
+        }
+    ]
 }
